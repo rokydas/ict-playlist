@@ -1,0 +1,13 @@
+.video-title {
+    font-size: 20px;
+    padding: 20px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px 0px;
+}
+
+.video-titles {
+    height: 700px;
+    overflow: scroll;
+}
